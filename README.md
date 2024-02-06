@@ -3,7 +3,7 @@
 ## Sobre
 Projeto utilizado nos cursos de lógica de programação da Alura.
 ### Prévia do projeto:
- [Clique Aqui](https://portfolio-smoky-tau-25.vercel.app/target="_blank")
+ [Clique Aqui](https://portfolio-smoky-tau-25.vercel.app/)
 
 ## Tecnologias
 <div>
