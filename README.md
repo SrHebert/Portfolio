@@ -3,7 +3,9 @@ Projeto elaborado durante aulas de cursos da Alura.
 - HTML e CSS: trabalhando com responsividade e publicação de projeto
 - HTML e CSS: Classes, posicionamento e Flexbox
 
-### Prévia do projeto: [Clique Aqui](https://portfolio-smoky-tau-25.vercel.app/)
+### Prévia do projeto
+
+[<img loading="lazy" src="assets/mgi-10.gif" width=100 height=100 target="_blank">](https://portfolio-smoky-tau-25.vercel.app/)
 
 ## Tecnologias
 <div>
